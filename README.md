@@ -1,4 +1,4 @@
-Here’s a description you can use for your Simon game project:
+Here’s a description of my  Simon game project:
 
 ---
 
